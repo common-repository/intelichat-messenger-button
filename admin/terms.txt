@@ -1,0 +1,10 @@
+﻿
+<legend>Terms and conditions of use of this plugin</legend>
+<br>
+<b>Please read this carefully before proceeding:</b>
+
+This plugin was developed and tested for standard Wordpress on-premise installations and for the official cloud based Wordpress. 
+Modified versions of Wordpress and modified or non-compliant themes may cause unexpected malfunctions.
+
+
+Please refer to Intelichat terms and conditions for additional information. <a href="https://inteli.chat/en/temrs-and-conditions/" target="_blank"> Click here</a> 

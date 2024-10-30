@@ -1,0 +1,43 @@
+#inteliChatWindow {
+	position: fixed;
+	bottom: 0px;
+	border: 1px solid darkgrey;
+}
+
+.inteliChat.title {
+	overflow: hidden;
+	white-space: nowrap;
+	position: relative;
+	font-size: 0.8em;
+	margin: 0px;
+	padding: 5px;
+}
+
+.inteliChat.open-btn {
+	padding: 5px;
+	display: block;
+	cursor: pointer;
+	bottom: 10px;
+	position: fixed;
+}
+
+.inteliChat.close-btn {
+	display: block;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	padding: 2px 5px;
+	cursor: pointer;
+}
+
+.inteliChat.content {
+	background: #EEE;
+}
+
+.inteliChat.open-btn:hover {
+	padding: 0px;
+}
+
+.inteliChat.close-btn:hover {
+	font-weight: bold;
+}

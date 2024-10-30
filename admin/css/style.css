@@ -1,0 +1,32 @@
+#wpwrap, .nav-tab-active, .nav-tab-active:hover {
+	background: #fff;
+}
+
+.upload_display {
+	display: inline-block;
+	text-align: center;
+	border: solid 1px #CCC;
+	padding: 5px;
+}
+
+.upload_display IMG {
+	width: 80px;
+	height: 80px;
+	margin-bottom: 10px;
+}
+
+.ic_error {
+	color: red;
+}
+
+.ic_cols_values {
+	white-space: nowrap;
+}
+
+.ic_cols_values .separator {
+	margin: 0px 15px;
+}
+
+.ic_cols_values .number {
+	max-width: 60px;
+}
